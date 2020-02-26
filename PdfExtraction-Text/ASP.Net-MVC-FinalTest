@@ -1,0 +1,90 @@
+ 
+
+ 
+
+Unit Test 
+ 
+Subject: ASP.Net MVC                                 Date: 23-08-2019 
+ 
+Notes:  
+1.  Please make a use of proper HTML templates that uses CSS. Presentation and layout will be considered while assessment. 
+2.  Follow all the appropriate coding standards. This will also be considered while assessment. 
+3.  This test should be treated as an individual task and not a group activity. 
+
+ 
+
+Test #  Trainee  Project Description 
+1  Ankitkumar  Patient Management System 
+Singh    Patient 
+o  Patient will fill registration form. 
+o  After login he can fill appointment form from available appointment time. 
+o  Patient should able to see his treatment schedule and fees paid up to his last appointment. 
+o  Patient should be able to ask advice by filling a form and can able to see doctor’s reply. 
+  Doctor 
+o  Doctor can see his appointments for today and for previous/next dates. 
+o  Doctor can see patient’s previous record for next treatment. 
+o  Doctor will update patient record for current visit and fees paid by patient along with his treatment. 
+o  Doctor can give next appointment to patient. 
+o  Doctor can reschedule an appointment. In case, patient can see his rescheduled appointment in his profile. 
+o  Doctor can see balance sheet on daily basis and monthly basis of clinic revenue. 
+
+2  Shreya  Hotel Booking System 
+Shejwalkar    User o  User can see category wise list of hotels. 
+o  User can see details of hotel. 
+o  User can book number of rooms for selected date. 
+o  User will receive a reservation token for his booked rooms. 
+  Admin 
+o  Admin can add hotel with its description and images 
+o  Admin can see list of hotels. 
+o  Admin can see daily bookings for hotels. 
+o  Admin can cancel booking on request of user. 
+
+3  Prerna  Movie Ticket Booking System 
+Chachare    User 
+o  User can see the available shows for booking including timings. 
+o  User can book the tickets for the show with seat allocations. Past shows cannot be booked. 
+o  User can cancel the booked tickets. 
+o  User will receive booking details via email. 
+  Admin 
+o  Admin can add movies with shows with additional information 
+o  Admin can see list of bookings with user details. 
+
+4  Punam  Online Book Store 
+Dhomse    User 
+o  User can see the available books with details i.e. ISBN, author, etc. 
+o  User can add the books in the shopping cart. 
+o  User can check out with purchased books using COD method. 
+o  User will receive purchase details via email. 
+  Admin 
+o  Admin can add / edit /delete books. 
+o  Admin can see list of orders with user details. 
+
+5  Nikhil Patil  Dynamic image gallery   User 
+o  image gallery thumbnail in carousal 
+o  respective image will get open in popup 
+o  Post comments on an image 
+o  Should be able to tag images 
+o  Send an email to the admin when a comment is added to an image 
+  admin 
+o  image gallery management 
+  upload image 
+  manage image sequence 
+  display uploaded images in list, admin should able to, 
+  change image 
+  edit image name 
+  modify image sequence 
+  delete image 
+
+6  Sachin Pawar  Online Banking management 
+o  User Registration: 
+o  Can register with their details and unique account number, username should be unique 
+o  User: 
+o  Can check their account balance and other information i.e. account number 
+o  Can fetch statement form specified period 
+o  Can transfer amount to other users (needs separate transaction password) 
+o  Can change login as well as transaction password 
+o  Admin 
+o  Can see all user information name,  account no, current balance. 
+o  Can add funds to user account 
+
+ 

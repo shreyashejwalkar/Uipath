@@ -1,0 +1,5 @@
+﻿UserId,FirstName,LastName,Email,Password,UserTypeId
+1,shreya,shejwalkar,shreya@gmail.com,Shreya@123,2
+2,Shweta,Shejwalkar,Admin@gmail.com,Admin@123,1
+1002,Rabia,Qazi,rabia@gmail.com,Rabia@123,2
+2002,Pratiksha,Pawar,pratiksha@gmail.com,Pratiksha@123,2
